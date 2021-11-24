@@ -1,0 +1,140 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+hr {
+    width: 300px;
+    background-color: rgb(214, 212, 212);
+}
+
+#partelaranja {
+    background-color: rgb(255, 153, 0);
+}
+
+#terra {
+    height: 20px;
+    margin-bottom: 5px;
+}
+
+#ul {
+    margin-top: 20px;
+
+}
+
+#carro {
+    height: 25px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+#partebranca {
+    height: 80px;
+    background-color: beige;
+
+    
+}
+
+#tentei {
+    margin-top: 100px;
+}
+
+/*---------MAIN---------*/
+
+main {}
+
+#carousel{
+    height: 300px;
+}
+#immmg{
+    height: 300px;
+
+}
+
+#texto {
+    color: black;
+}
+
+main div p a:hover{
+    color: #e02b20;
+}
+
+#botao {
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 0%;
+    background-color: #ffff;
+    color: #e02b20;
+    border-color: #e02b20;
+    margin-left: -60px;
+}
+#bbotao {
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 0%;
+    background-color: #ffff;
+    color: #e02b20;
+    border-color: #e02b20;
+    margin-left: -20px;
+}
+
+#imgemcimadofooter {
+    height: 300px;
+}
+
+#containeremcimadofooter {
+    width: 65%;
+    margin-left: 100px;
+}
+
+#a {
+    font-size: 14px;
+    text-align: justify;
+}
+
+#aa {
+    color: black;
+}
+
+#cardsemcimafooter {
+    margin-top: 50px;
+}
+
+main h2 {
+    color: rgb(247, 68, 68);
+}
+
+/*---------------Footer-----------------*/
+
+footer {
+    margin-top: 50px;
+    background-color: #e02b20;
+}
+
+footer p, 
+h5,
+li {
+    color: #ffff;
+}
+
+#img {
+    height: 25px;
+    padding-right: 15px;
+}
+
+#immg {
+    height: 45px;
+    margin-left: -10px;
+}
+
+#partevermelha {
+    background-color: rgb(207, 31, 31);
+}
+
+#editora {
+   padding-top: 10px;
+}
+
+#mecanico {
+    color: blue;
+}
